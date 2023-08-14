@@ -32,3 +32,39 @@ print(c)
 print(type(c))
 print("Count of 3 in c tuple:",c.count(3))
 print("index value of 3  in c tuple:",c.index(3)) #gives a value the index of 1st occurance of 3
+
+
+####################
+#Question
+#################
+#1)
+# l1=[]
+# for i in range(7):
+#     fruit=input("Enter 7 fruits:")
+#     l1.append(fruit)
+# print(l1)
+
+#2)
+# marks=[]
+# for i in range(6):
+#     mark=input("Enter the Students mark:")
+#     marks.append(mark)
+
+# print("sortedmarks:",sorted(marks))
+
+#3)
+# age=(55,77,98,25)
+# print(sorted(age))
+# age=age.insert(3,8)
+# print(age)
+
+#4)
+# l2=[4,6,7,8]
+# sum=0
+# for i in range(len(l2)):
+#     sum+=l2[i]
+# print("Sum:",sum)
+
+#5)
+t1=(7,0,8,0,0,9)
+print("Count of Zeros:",t1.count(0))
