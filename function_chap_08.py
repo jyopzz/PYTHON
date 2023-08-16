@@ -62,7 +62,7 @@
 
 # a=sumofn(2)
 # print(a)
-
+#7)
 def remw(word,l):
     if  word in l:
         l.remove(word)
