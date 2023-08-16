@@ -63,14 +63,14 @@
 # a=sumofn(2)
 # print(a)
 #7)
-def remw(word,l):
-    if  word in l:
-        l.remove(word)
-        return l
-    else:
-        print("no word found in the list")
-        return l
-l=["jyothis","joseph","jyo"]
-n=input("Enter a word")
-z=remw(n,l)
-print(z)
+# def remw(word,l):
+#     if  word in l:
+#         l.remove(word)
+#         return l
+#     else:
+#         print("no word found in the list")
+#         return l
+# l=["jyothis","joseph","jyo"]
+# n=input("Enter a word")
+# z=remw(n,l)
+# print(z)
